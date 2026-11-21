@@ -79,6 +79,7 @@ Questo repository funge da hub centrale di distribuzione tecnica e documentazion
 
 La suite di diagnostica tecnica di TAVARDT è accessibile pubblicamente per verifiche di sicurezza, validazione di infrastruttura e audit prestazionali:
 
+* [Valutatore di Robustezza LLM & Stress Tester di Guardrail](https://tools.tavardt.com/it/llm-robustness-evaluator/): Fuzzer e simulatore di sicurezza difensiva per verificare i system prompt di LLM contro iniezioni di prompt, bypass dei ruoli e fuga di istruzioni. Resilience Score (0-100) + blueprint di mitigazione. ([Repository GitHub](https://tavardt-italia.github.io/llm-robustness-evaluator-it/))
 * [Verifica DMARC e Spoofing Email](https://tools.tavardt.com/it/verifica-dmarc-email/): Convalida policy DMARC, allineamento SPF e chiavi pubbliche DKIM per neutralizzare l'impersonificazione del dominio aziendale.
 * [Analisi Header di Sicurezza HTTP](https://tools.tavardt.com/it/analisi-header-sicurezza/): Verifica la corretta implementazione degli header di difesa web quali CSP, HSTS, X-Frame-Options e Referrer-Policy.
 * [Rilevatore Spam SEO e Siti Hackerati](https://tools.tavardt.com/it/rilevatore-spam-seo-sito-hackerato/): Rileva l'iniezione occulta di link, pratiche di cloaking condizionale su server e contenuti manipolati a fini malevoli.
