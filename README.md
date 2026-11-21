@@ -118,4 +118,4 @@ Tutte le infrastrutture e soluzioni gestite all'interno del perimetro operativo 
 * Portale Corporate: [https://ag.tavardt.com/it/](https://ag.tavardt.com/it/)
 * Suite di Strumenti Tecnici: [https://tools.tavardt.com/it/](https://tools.tavardt.com/it/)
 * Posta Elettronica Istituzionale: [contact@tavardt.com](mailto:contact@tavardt.com)
-* Canale di Assistenza Diretta: [Consulenza Tecnica Diretta con Sofia (WhatsApp)](https://wa.me/5584987721775?text=Buongiorno%20Sofia,%20ti%20contatto%20tramite%20l'organizzazione%20GitHub%20di%20TAVARDT%20Italia%20per%20una%20consulenza%20tecnica.)
+* Canale di Assistenza Diretta: [Consulenza Tecnica Diretta con Sofia (WhatsApp)](https://wa.me/5584987721775?text=Buongiorno%20Sofia,%20ti%20contatto%20tramite%20l'organizzazione%20GitHub%20di%20TAVARDT%20Italia%20per%20entrare%20in%20contatto.)
