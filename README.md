@@ -4,13 +4,13 @@
   </a>
 </p>
 
-# TAVARDT Italia | Ingegneria Web, Sicurezza Informatica e Architettura di Crescita Digitale
+# Ingegneria Web, Sicurezza Informatica e Architettura di Crescita Digitale
 
 TAVARDT è una società di consulenza in ingegneria digitale, cyber defence e architettura di crescita specializzata in applicazioni web mission-critical, mitigazione proattiva delle minacce e sistemi di acquisizione clienti basati sui dati.
 
 Questo repository funge da hub centrale di distribuzione tecnica e documentazione per il territorio operativo italiano ed europeo, rigorosamente allineato ai quadri normativi di protezione dei dati e di sicurezza cibernetica dell'Italia e dell'Unione Europea (Regolamento Generale sulla Protezione dei Dati - GDPR, Codice Privacy D.Lgs. 196/2003 novellato dal D.Lgs. 101/2018, provvedimenti del Garante per la protezione dei dati personali e linee guida dell'Agenzia per la Cybersicurezza Nazionale - ACN).
 
----
+***
 
 ## 1. Portali Principali
 
@@ -18,7 +18,7 @@ Questo repository funge da hub centrale di distribuzione tecnica e documentazion
 * [Suite di Diagnostica e Verifica Tecnica](https://tools.tavardt.com/it/)
 * [Contatti Tecnici e Governance di Progetto](https://ag.tavardt.com/it/contatti/)
 
----
+***
 
 ## 2. Servizi Tecnici e Strategici
 
@@ -73,7 +73,7 @@ Questo repository funge da hub centrale di distribuzione tecnica e documentazion
 * [Infrastruttura Operativa Telegram](https://ag.tavardt.com/it/super-intelligence/telegram/): Canali sicuri di notifica per team operativi e bot per la segnalazione di allarmi critici in tempo reale.
 * [Flussi Conversazionali Instagram DM](https://ag.tavardt.com/it/super-intelligence/instagram-dm/): Gestione automatizzata delle richieste inbound, logiche di qualificazione tecnica e fissazione diretta di appuntamenti esecutivi.
 
----
+***
 
 ## 3. Strumenti Diagnostici Proprietari
 
@@ -101,7 +101,7 @@ La suite di diagnostica tecnica di TAVARDT è accessibile pubblicamente per veri
 * [Controllo Link Interrotti ed Errori 404](https://tools.tavardt.com/it/controllo-link-interrotti/): Scansiona i collegamenti ipertestuali interni ed esterni alla ricerca di risposte 404 ed errori di risoluzione DNS.
 * [Calcolatore ROI per Traffico a Pagamento](https://tools.tavardt.com/it/calcolatore-roi-traffico-a-pagamento/): Elabora stime puntuali su costo di acquisizione cliente (CAC), ritorno sulla spesa pubblicitaria (ROAS) e valore vitale del cliente (LTV).
 
----
+***
 
 ## 4. Governance Tecnica e Standard Operativi
 
@@ -111,7 +111,7 @@ Tutte le infrastrutture e soluzioni gestite all'interno del perimetro operativo 
 * Massima Postura di Sicurezza: Obbligo di cifratura TLS 1.3, Content Security Policy restrittiva (CSP Livello 3), inclusione nella lista HSTS Preload e convalida crittografica DNSSEC.
 * Conformità Normativa: Pieno allineamento al GDPR (Regolamento UE 2016/679), alle prescrizioni del Garante Privacy e ai framework di sicurezza cibernetica dell'ACN.
 
----
+***
 
 ## 5. Contatti e Richieste Istituzionali
 
@@ -119,3 +119,7 @@ Tutte le infrastrutture e soluzioni gestite all'interno del perimetro operativo 
 * Suite di Strumenti Tecnici: [https://tools.tavardt.com/it/](https://tools.tavardt.com/it/)
 * Posta Elettronica Istituzionale: [contact@tavardt.com](mailto:contact@tavardt.com)
 * Canale di Assistenza Diretta: [Consulenza Tecnica Diretta con Sofia (WhatsApp)](https://wa.me/5584987721775?text=Buongiorno%20Sofia,%20ti%20contatto%20tramite%20l'organizzazione%20GitHub%20di%20TAVARDT%20Italia%20per%20entrare%20in%20contatto.)
+
+***
+
+© 2026 TAVARDT. Tutti i diritti riservati.
